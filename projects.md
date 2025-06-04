@@ -10,6 +10,12 @@ layout: custom
       <hr>
     </div>
 
+    <a href="https://github.com/jefreyh?tab=repositories" 
+    class="btn" 
+    style="margin-bottom:20px">
+    Github
+    </a>
+
     <div style="margin-top:20px">
       <a href="./">back</a>
     </div>
